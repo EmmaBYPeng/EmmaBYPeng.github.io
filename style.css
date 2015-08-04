@@ -61,7 +61,8 @@ div.block-text div.block-img {
 }
 
 .project-item {
-	padding-bottom: 15px;
+	padding-top: 10px;
+	padding-bottom: 10px;
 	display: inline;
     float: left;
     width: 350px;
