@@ -31,7 +31,12 @@ body {
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Montserrat', sans-serif;
   font-weight: 700;
+  font-size: 18px;
   color: #333;
+}
+
+h4, h5, h6 {
+  font-size: 16px;
 }
 
 h1 {
@@ -47,7 +52,7 @@ h1 {
 p {
     line-height: 28px;
     margin-bottom: 25px;
-    font-size: 18px;
+    font-size: 16px;
 }
 
 .centered {
@@ -185,6 +190,10 @@ hr {
 	text-align: left;
 }
 
+#contact_2 {
+  text-align: center;
+}
+
 #contactTitle {
   text-align: center;
   text-transform: uppercase;
@@ -284,6 +293,6 @@ bt {
   width: 80%;
 }
 
-.project-description {
-  font-size: 14pt;
-}
+/*.project-description {
+  width: 80%;
+}*/
